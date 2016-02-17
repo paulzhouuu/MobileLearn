@@ -1,0 +1,6 @@
+<resources>
+    <string name="vision_subscription_key">63e0c1e42c97420db877d57173a8d62d</string>
+    <string name="speech_subscription_key">d6faba7fa61148c89022f815ee20646d</string>
+    <string name="app_name">Learn</string>
+    <string name="action_settings">Settings</string>
+</resources>

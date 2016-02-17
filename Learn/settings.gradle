@@ -1,0 +1,2 @@
+include ':app', ':speechsdk1'
+project(':speechsdk1').projectDir = new File('speechsdk')
